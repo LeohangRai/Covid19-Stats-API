@@ -1,0 +1,26 @@
+{
+  "name": "covid-stats-api",
+  "version": "1.0.0",
+  "description": "Get the covid-19 statistics for any country using this API",
+  "main": "getCovidStats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeohangRai/Covid19-Stats-API.git"
+  },
+  "keywords": [
+    "covid-19",
+    "covid19-stats"
+  ],
+  "author": "Leohang Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeohangRai/Covid19-Stats-API/issues"
+  },
+  "homepage": "https://github.com/LeohangRai/Covid19-Stats-API#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
